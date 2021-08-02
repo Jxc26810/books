@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    position: relative;
+    background: url(./image/background.jpeg);
+    background-position: -100px -100px;
+    .box{
+        width: 500px;
+        height: 320px;
+        position: absolute;
+        background: #fff;
+    }
+}
